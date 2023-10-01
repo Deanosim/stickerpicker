@@ -1,0 +1,7 @@
+{
+  "packs": [
+    "AsokaTano.json",
+    "PEPEtop.json"
+  ],
+  "homeserver_url": "https://matrix.deanosim.xyz"
+}
