@@ -13,5 +13,4 @@ web/lib/import-map.json
 /*.json
 *.bak
 build/
-version.py
 sticker/version.py
